@@ -15,6 +15,9 @@
   "author": "Aylus, LTD <git@ayl.us>",
   "license": "GPL-2.0",
   "readmeFilename": "README.md",
+  "dependencies" : {
+    "lambda-chop" : "0.1.5"
+  }
   "devDependencies" : {
     "sweet.js": "~0.5.0"
   }
