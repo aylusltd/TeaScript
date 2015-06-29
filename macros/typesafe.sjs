@@ -65,7 +65,4 @@ macro func {
     }
 }
 
-func test(a : Number, b: String) {
-    return a;
-}
-func test(a : 1);
+export func
