@@ -1,0 +1,17 @@
+{
+  "name": "TeaScript",
+  "version": "0.0.1",
+  "description": "A Suite of Sweet.js macros",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aylusltd/TeaScript.git"
+  },
+  "keywords": [
+    "typesafety",
+    "macro",
+    "macros",
+    "sweet-macros"
+  ],
+  "author": "Aylus, LTD <git@ayl.us>",
+  "license": "GPL",
+  "readmeFilename": "README.md"
