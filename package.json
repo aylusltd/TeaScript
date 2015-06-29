@@ -14,4 +14,7 @@
   ],
   "author": "Aylus, LTD <git@ayl.us>",
   "license": "GPL",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "devDependencies" : {
+    "sweet.js": "~0.5.0"
+  }
